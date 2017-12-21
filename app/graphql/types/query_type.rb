@@ -18,4 +18,8 @@ GraphiQL had already been added to your application when you executed rails gene
 
 Open your browser at http://localhost:3000/graphiql
 
+FRONTEND: https://www.howtographql.com/react-apollo/5-authentication/
+BACKEND: https://www.howtographql.com/graphql-ruby/4-authentication/
+Resource: http://graphql-ruby.org/getting_started
+
 =end
